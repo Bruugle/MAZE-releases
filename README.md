@@ -2,6 +2,8 @@
 A prototype of my little maze game. If you can beat it I will put you in the game.
 Work-in-progress
 
+music produced by NextToBlue
+
 
 ## Known Issues
 - writing on and dropping hundreds of pages from the journal can cause high RAM usage and potentially cause a crash
